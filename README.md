@@ -72,3 +72,11 @@ Now that you're finished with your analysis in Google Colab, you need to get you
 Download your Colab notebooks to your computer.
 Move them into your Deep Learning Challenge directory in your local repository.
 Push the added files to GitHub.
+
+### Resources 
+  - AskBCS
+  - Stack Overflow
+  - https://towardsdatascience.com/deep-learning-with-python-neural-networks-complete-tutorial-6b53c0b06af0
+  - https://scikit-learn.org/stable/modules/neural_networks_supervised.html
+  - https://www.geeksforgeeks.org/implementing-ann-training-process-in-python/#
+  - https://www.tensorflow.org/tutorials/images/cnn
