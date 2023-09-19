@@ -1,5 +1,9 @@
-# Module 21 Deep Learning Challenge 
+# Big Data And Deep Learning Analysis of Startups
 
+## How To Use
+The Jupyter Notebook file named AlphabetSoupCharity contains the code for my first attempt at the model. The Jupyter Notebook file name AlphabetSoupOptimized contains code for two optimization attempts to get the model at 85% accuracy. My findings are summarized in the Report.md file. 
+
+## Background
 For this challenge, the nonprofit foundation Alphabet Soup wants a tool that can help it select the applicants for funding with the best chance of success in their ventures. With my knowledge of machine learning and neural networks, I used the features in the provided dataset to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
 
 ## Step 1: Preprocess the Data
@@ -31,6 +35,8 @@ Continue using the file in Google Colab in which you performed the preprocessing
 8. Evaluate the model using the test data to determine the loss and accuracy.
 9. Save and export your results to an HDF5 file. Name the file AlphabetSoupCharity.h5.
 
+<img width="432" alt="image" src="https://github.com/taschaef/Big_Data_And_Deep_Learning_Analysis_Of_Startups/assets/124079708/d9a60a03-6b80-4793-b0dd-91a7fb521a08">
+
 ## Step 3: Optimize the Model
 Using your knowledge of TensorFlow, optimize your model to achieve a target predictive accuracy higher than 75%.
 Use any or all of the following methods to optimize your model:
@@ -42,6 +48,10 @@ Use any or all of the following methods to optimize your model:
   - Add more hidden layers.
   - Use different activation functions for the hidden layers.
   - Add or reduce the number of epochs to the training regimen.
+
+<img width="441" alt="image" src="https://github.com/taschaef/Big_Data_And_Deep_Learning_Analysis_Of_Startups/assets/124079708/db021373-d13c-413e-bd74-e27149a6b5e5">
+<img width="422" alt="image" src="https://github.com/taschaef/Big_Data_And_Deep_Learning_Analysis_Of_Startups/assets/124079708/0c4d1495-f218-4587-a036-7cb13c7673e7">
+
 
 1. Create a new Google Colab file and name it AlphabetSoupCharity_Optimization.ipynb.
 2. Import your dependencies and read in the charity_data.csv to a Pandas DataFrame.
