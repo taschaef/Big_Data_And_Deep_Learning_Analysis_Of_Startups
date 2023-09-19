@@ -1,7 +1,7 @@
 # Big Data And Deep Learning Analysis of Startups
 
 ## How To Use
-The Jupyter Notebook file named AlphabetSoupCharity contains the code for my first attempt at the model. The Jupyter Notebook file name AlphabetSoupOptimized contains code for two optimization attempts to get the model at 85% accuracy. My findings are summarized in the Report.md file. 
+The Jupyter Notebook file named AlphabetSoupCharity contains the code for my first attempt at the model. The Jupyter Notebook file name AlphabetSoupOptimized contains code for two optimization attempts to get the model at 85% accuracy. The answers to the questions contained in this Readme as well as my findings are summarized in the Report.md file. 
 
 ## Background
 For this challenge, the nonprofit foundation Alphabet Soup wants a tool that can help it select the applicants for funding with the best chance of success in their ventures. With my knowledge of machine learning and neural networks, I used the features in the provided dataset to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
